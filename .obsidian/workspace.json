@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "1a2ba90fada72da3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4bfd0a0717448ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7853b7317c9420d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas rápidas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notas rápidas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be37a099faf964a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9402989005a7b1f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f3454b9be10ad53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "eb1c07a49222b891",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "e3861acbff648666",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21b03384598989e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8009f03e45b3fb53",
+        "type": "tabs",
+        "dimension": 60.049019607843135,
+        "children": [
+          {
+            "id": "04df1ce91c52da90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notas rápidas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Notas rápidas"
+            }
+          },
+          {
+            "id": "182ecc633b724fa9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notas rápidas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Notas rápidas"
+            }
+          },
+          {
+            "id": "889e9a7041b61ed1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas rápidas.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Notas rápidas"
+            }
+          },
+          {
+            "id": "e9fe2142c14794d2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "97ffe896bab8654c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "76d0122b9d630abb",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Notas rápidas.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Notas rápidas"
+            }
+          },
+          {
+            "id": "dd2d367403f23159",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c8df84e50d4b2803",
+            "type": "leaf",
+            "state": {
+              "type": "stat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "62d8bc5fc1b75f8b",
+        "type": "tabs",
+        "dimension": 39.950980392156865,
+        "children": [
+          {
+            "id": "2b7004932d4d28b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-word-sprint:Activate Word Sprint Leaf": false
+    }
+  },
+  "active": "7853b7317c9420d5",
+  "lastOpenFiles": [
+    "4 - Complementos/Anexos/Pasted image 20240910211924.png",
+    "2 - Estudos/Geral",
+    "4 - Complementos/Anexos/Pasted image 20240807202825.png",
+    "4 - Complementos/Anexos/Pasted image 20240807202759.png",
+    "4 - Complementos/Anexos/Pasted image 20240807201819.png",
+    "4 - Complementos/Anexos/Imagem do WhatsApp de 2024-08-27 à(s) 10.23.14_2d1149f5.jpg",
+    "Notas rápidas.md",
+    "Mudanças.md",
+    "1 - Portifolio/Projetos/Aplicando Clustering.md",
+    "Coisas.md",
+    "Maitha/Workshop AWS e IA.md",
+    "4 - Complementos",
+    "3 - Compartilhados",
+    "2 - Estudos",
+    "1 - Portifolio/Projetos",
+    "Sem título",
+    "Vida/O Marcos.md",
+    "1 - Portifolio",
+    "Vida/AJ.md",
+    "4 - Complementos/Templates/Disciplina.md",
+    "4 - Complementos/Templates/{{date}}.md",
+    "4 - Complementos/Templates/Lista e trabalho.md",
+    "4 - Complementos/Templates/Geral.md",
+    "Vida/Assistir/Assistir Séries.md",
+    "Vida/Assistir/Assistir Animes.md",
+    "Vida/Assistir/Assistir Filmes.md",
+    "Vida/Jogos.md",
+    "Vida/Ler.md",
+    "3 - Compartilhados/Guias/Guia MathJax.md",
+    "Base de dados.md",
+    "2 - Estudos/Estudos/Coeficiente de Silhouette.md",
+    "2 - Estudos/Estudos/Cálculo/Prova Evandro.md",
+    "Vida/Hábitos.md",
+    "Vida/Estudo de inglês.md",
+    "Maitha",
+    "Colab.md",
+    "Case.md",
+    "1 - Portifolio/Projetos/Marcos_Santos_Estagio_PRIP.md",
+    "USP/Dados USP.canvas",
+    "USP/Listas e Trabalhos.canvas",
+    "4 - Complementos/Anexos/Imagem do WhatsApp de 2024-08-27 à(s) 10.26.25_b66ccfa3.jpg",
+    "4 - Complementos/Anexos/Imagem do WhatsApp de 2024-08-27 à(s) 10.26.05_e02af3e4.jpg",
+    "4 - Complementos/Anexos/Pasted image 20240807202814.png",
+    "4 - Complementos/Anexos/Pasted image 20240807202806.png",
+    "4 - Complementos/Anexos/Pasted image 20240807202732.png",
+    "2 - Estudos/USP/SEst",
+    "VIda/Sem título",
+    "Estudos/Cursos/Cursos.canvas",
+    "Sem título.canvas",
+    "Sem título 1.canvas"
+  ]
+}
