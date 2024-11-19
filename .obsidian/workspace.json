@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas rápidas.md",
+                "file": "4 - Complementos/Em contrução 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas rápidas"
+              "title": "Em contrução 3"
             }
           }
         ]
@@ -188,9 +188,19 @@
               "icon": "lucide-file",
               "title": "Plugin desativado"
             }
+          },
+          {
+            "id": "2defc290a2c3b090",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "62d8bc5fc1b75f8b",
@@ -214,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,18 +237,23 @@
       "zk-prefixer:Criar nova nota única": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-word-sprint:Activate Word Sprint Leaf": false
+      "obsidian-word-sprint:Activate Word Sprint Leaf": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "7853b7317c9420d5",
   "lastOpenFiles": [
+    "2 - Estudos/Geral/Em contrução 2.md",
+    "4 - Complementos/Em contrução 3.md",
+    "2 - Estudos/USP/Em contrução 1.md",
+    "1 - Portifolio/Projetos/Em contrução.md",
+    "Notas rápidas.md",
     "4 - Complementos/Anexos/Pasted image 20240910211924.png",
     "2 - Estudos/Geral",
     "4 - Complementos/Anexos/Pasted image 20240807202825.png",
     "4 - Complementos/Anexos/Pasted image 20240807202759.png",
     "4 - Complementos/Anexos/Pasted image 20240807201819.png",
     "4 - Complementos/Anexos/Imagem do WhatsApp de 2024-08-27 à(s) 10.23.14_2d1149f5.jpg",
-    "Notas rápidas.md",
     "Mudanças.md",
     "1 - Portifolio/Projetos/Aplicando Clustering.md",
     "Coisas.md",
@@ -268,9 +282,6 @@
     "Vida/Hábitos.md",
     "Vida/Estudo de inglês.md",
     "Maitha",
-    "Colab.md",
-    "Case.md",
-    "1 - Portifolio/Projetos/Marcos_Santos_Estagio_PRIP.md",
     "USP/Dados USP.canvas",
     "USP/Listas e Trabalhos.canvas",
     "4 - Complementos/Anexos/Imagem do WhatsApp de 2024-08-27 à(s) 10.26.25_b66ccfa3.jpg",
